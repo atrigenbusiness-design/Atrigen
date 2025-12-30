@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://atrigen.rs/sitemap.xml
